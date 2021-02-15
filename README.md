@@ -1,18 +1,6 @@
 ### Hi there, I'm Georgina 👋
 
 ![This is me]()
-```javascript
-const  = {
-code: [
-"","",
-"BIG DATA &amp; MACHINE LEARNING",
-"",
-"",
-""],
-
-
-};
-
 <!--
 **enkhara/enkhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
