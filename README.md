@@ -2,20 +2,15 @@
 
 ![This is me]()
 ```javascript
-const KeepCoding = {
+const  = {
 code: [
-"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
+"","",
 "BIG DATA &amp; MACHINE LEARNING",
-"DEVOPS",
-"CIBERSEGURIDAD",
-"BLOCKCHAIN"],
-technologies:[
-"Cursos Online",
-"Webbinars",
-"BootCamps",
-]
-},
-homePage: "https://justcodeit.io/"
+"",
+"",
+""],
+
+
 };
 
 <!--
