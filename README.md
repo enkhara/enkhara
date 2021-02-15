@@ -1,5 +1,23 @@
 ### Hi there, I'm Georgina 👋
 
+![This is me]()
+```javascript
+const KeepCoding = {
+code: [
+"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
+"BIG DATA &amp; MACHINE LEARNING",
+"DEVOPS",
+"CIBERSEGURIDAD",
+"BLOCKCHAIN"],
+technologies:[
+"Cursos Online",
+"Webbinars",
+"BootCamps",
+]
+},
+homePage: "https://justcodeit.io/"
+};
+
 <!--
 **enkhara/enkhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
